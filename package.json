@@ -1,0 +1,19 @@
+{
+  "name": "postgresql_nodejs_pool",
+  "version": "1.0.0",
+  "description": "PostgreSQL NodeJs Connection Pool",
+  "main": "./src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PcFerreira/postgresql_nodejs_pool.git"
+  },
+  "author": "Pedro Ferreira",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PcFerreira/postgresql_nodejs_pool/issues"
+  },
+  "homepage": "https://github.com/PcFerreira/postgresql_nodejs_pool#readme"
+}
