@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/PcFerreira/postgresql_nodejs_pool.git"
   },
-  "author": "Pedro Ferreira",
+  "author": "Pedro Cesar",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/PcFerreira/postgresql_nodejs_pool/issues"
